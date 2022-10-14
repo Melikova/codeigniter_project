@@ -149,7 +149,9 @@ body{
 }
 
 /* scrolled header */
+
 .scrolled-header{
+    opacity: 0.6;
     display:none;
     width: 100%;
     background-color: #000;
